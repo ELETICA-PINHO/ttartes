@@ -21,7 +21,9 @@
   top: 0;
   left: 0;
   
-  height:10%; 
+
+    height: 200px;
+    overflow: hidden;
 
  
 }
