@@ -57,6 +57,11 @@ body {
   top: 0;
   left: 0;
   min-width: 100%;
+
+  max-width:200px;
+  max-height:150px;
+  
+  height: auto;
  
 }
 
